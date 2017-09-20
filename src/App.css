@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+#logo{
+  padding-top: 10px;
+  padding-left: 210px;
+  padding-bottom: 10px;
+  height: 75px;
+}
+
+#messagecontainer{
+  margin: 0 auto;
+  width: 100%;
+  height: 1100px;
+  position: relative;
+  background-image: url("http://cdn2.2u.com/content/b39509dbf8664c9caf8c46b2e99225c2/2U_MKTGWEB-8450_HOMEPAGE.HP.jpg");
+}
+
+#message{
+  margin: 0 auto;
+  padding-top: 300px;
+  color: white;
+  width: 800px;
+}
+#partnershead{
+  font-size: 50px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+#partnersimg{
+  width: 100%;
+}
+
+#seepartnerbtn{
+  padding-top: 20px;
+}
+
+#NoBackRowContainer{
+  padding-top: 80px;
+  font-size: 20px;
+  padding-bottom: 50px;
+}
+
+#NoBackRowhead{
+  padding-bottom: 50px;
+  font-size: 80px;
+}
+
+#newshead{
+  font-size: 80px;
+}
+
+#newscontainer{
+  padding-top: 50px;
+}
+
+#newsmessage{
+  font-size: 40px;
+}
